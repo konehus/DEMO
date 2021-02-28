@@ -1,3 +1,5 @@
 /dataSources/
 ../target/
 ../src/main/resources/META-INF/persistence.xml
+*.xml
+!pom.xml

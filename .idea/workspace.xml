@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6798b8e9-7d42-4c96-a095-574ea6487c69" name="Default Changelist" comment="Demo Project first push!">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS544.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/domain/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/domain/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/domain/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/domain/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/miu/listener/ClassListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1p52eQiqfqt6ctLlRLghSLelGly" />
@@ -80,15 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,15 +97,71 @@
       <option name="presentableId" value="Default" />
       <updated>1614458728219</updated>
       <workItem from="1614458729775" duration="13205000" />
-      <workItem from="1614527896159" duration="7693000" />
+      <workItem from="1614527896159" duration="9187000" />
+      <workItem from="1614553773054" duration="400000" />
     </task>
+    <task id="LOCAL-00001" summary="Demo Project first push!">
+      <created>1614550393544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614550393544</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Demo Project first push!">
+      <created>1614550431265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614550431265</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Demo Project first push!">
+      <created>1614551022960</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614551022960</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Demo Project first push!">
+      <created>1614551070394</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614551070394</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Demo Project first push!">
+      <created>1614551237570</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614551237570</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added git ignore">
+      <created>1614554041342</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614554041342</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Demo Project first push!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Demo Project first push!" />
+    <MESSAGE value="added git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="added git ignore" />
   </component>
 </project>
